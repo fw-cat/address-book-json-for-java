@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+desktop.ini
+
+# npm
+package-lock.json
+node_modules
+
+# Java
+*.class
+
+# project only
+address.json
